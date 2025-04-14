@@ -1,7 +1,7 @@
 {
   "name": "SHETTY",
   "symbol": "SHTY",
-  "description": "The official token of Shetty – fast, fun, and futuristic!",
-  "image": "https://raw.githubusercontent.com/manvithshetty2006/solana-token-assets/main/logo.png",
-  "decimals": 9
+  "uri": "https://raw.githubusercontent.com/manvithshetty2006/solana-token-assets/main/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": null
 }
